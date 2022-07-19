@@ -41,14 +41,14 @@ ul li:hover{
 #add_to_do_button{
     padding:14px;
     width: 25%;
-    background-color:rgb(213, 208, 208) ;
+    background-color:rgb(111, 143, 238) ;
     cursor: pointer;
     font-size: 18px;
     border: none;
     margin-left: -4px;
 }
 #add_to_do_button:hover{
-    background-color:rgb(153, 146, 146) ;
+    background-color:blue ;
 }
 #task_left{
     padding-left: 48px;
