@@ -1,0 +1,74 @@
+body {
+    margin: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+.header{
+    background-color: cyan;
+    padding: 25px 35px;
+    text-align: center;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+ul li{
+   position: relative;
+   cursor: pointer; 
+   list-style-type: none;
+   padding: 14px 18px 14px 70px;
+   background-color:whitesmoke;
+   font-size:20px;
+
+}
+ul li:nth-child(odd){
+    background-color: rgb(234, 231, 231);
+}
+ul li:hover{
+    background-color:rgb(212, 207, 207);
+}
+
+#text_input{
+  border: none;
+  width: 70%;
+  padding: 14px;
+  font-size: 18px;
+
+}
+#add_to_do_button{
+    padding:14px;
+    width: 25%;
+    background-color:rgb(213, 208, 208) ;
+    cursor: pointer;
+    font-size: 18px;
+    border: none;
+    margin-left: -4px;
+}
+#add_to_do_button:hover{
+    background-color:rgb(153, 146, 146) ;
+}
+#task_left{
+    padding-left: 48px;
+    padding-top: 10px;
+    border-top: 5px solid rgb(145, 141, 141);
+    border-radius: 15px;
+}
+.close{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding:8px 18px 8px 18px ;
+    font-size: 32px;
+}
+.close:hover{
+    background-color: red;
+}
+.checkBox{
+    position: absolute;
+    left:42px;
+    width: 18px;
+    height: 18px;
+}
