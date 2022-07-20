@@ -19,8 +19,9 @@ function add(){// add list item
         checkInput.className="checkBox";
         li.appendChild(checkInput);
         document.getElementById("listOfToDo").appendChild(li);
+        totalTaskLeft(1);
     }
-    totalTaskLeft(1);
+    
 }
 function delete_list(){// delete li node 
  this.parentElement.style.display="none";
