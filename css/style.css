@@ -41,20 +41,23 @@ ul li:hover{
 #add_to_do_button{
     padding:14px;
     width: 25%;
-    background-color:rgb(111, 143, 238) ;
+    background-color:rgb(211, 208, 213) ;
     cursor: pointer;
     font-size: 18px;
     border: none;
     margin-left: -4px;
 }
 #add_to_do_button:hover{
-    background-color:blue ;
+    background-color:rgb(153, 146, 146) ;
 }
 #task_left{
     padding-left: 48px;
-    padding-top: 10px;
-    border-top: 5px solid rgb(145, 141, 141);
-    border-radius: 15px;
+    text-align: center;
+    border: 5px solid rgb(145, 141, 141);
+    border-radius: 150px;
+    font-size: 20px;
+    font-style: oblique;
+    font-variant: small-caps;
 }
 .close{
     position: absolute;
