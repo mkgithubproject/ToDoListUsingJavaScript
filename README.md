@@ -5,5 +5,5 @@
 ## Tech Stack :
     JavaScript, HTML ,CSS
 ## Host: https://mkgithubproject.github.io/ToDoListUsingJavaScript/
-## Git:  https:https://github.com/mkgithubproject/ToDoListUsingJavaScript
+## Git: https://github.com/mkgithubproject/ToDoListUsingJavaScript
 
