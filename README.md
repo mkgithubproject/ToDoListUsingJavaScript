@@ -4,8 +4,6 @@
     We can add and delete Todos.
 ## Tech Stack :
     JavaScript, HTML ,CSS
-## Host:
-    https://mkgithubproject.github.io/ToDoListUsingJavaScript/
-## Git:https:
-    https://github.com/mkgithubproject/ToDoListUsingJavaScript
+## Host: https://mkgithubproject.github.io/ToDoListUsingJavaScript/
+## Git:  https:https://github.com/mkgithubproject/ToDoListUsingJavaScript
 
