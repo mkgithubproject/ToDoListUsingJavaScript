@@ -1,2 +1,11 @@
 # ToDoListUsingJavaScript
-to do list using java script
+# ToDo List -
+## Features :
+    We can add and delete Todos.
+## Tech Stack :
+    JavaScript, HTML ,CSS
+## Host:
+    https://mkgithubproject.github.io/setAlarmUsingJS/
+## Git:https:
+    https://github.com/mkgithubproject/setAlarmUsingJS
+
